@@ -1,4 +1,4 @@
-# GalaxyWatch4
+# galaxywatch4
 
 **Warning: This repository is not currently maintained, please use at your own risk!**
 
